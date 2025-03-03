@@ -1,4 +1,4 @@
-# AI chatmate
+# AI chat mate
 To create a AI chat assisstant :
 ESP32 with WiFi and Bluetooth edge computer.
 Wake up by voice
